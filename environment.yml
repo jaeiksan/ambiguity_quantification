@@ -1,0 +1,15 @@
+name: ambiguity-full-query
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - torch
+      - transformers
+      - accelerate
+      - safetensors
+      - sentencepiece

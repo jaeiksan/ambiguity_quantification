@@ -1,0 +1,14 @@
+Evaluate the clarity of the input question.
+If the question is ambiguous, enhance it by adding specific details such as relevant locations, time periods, or additional context needed to resolve the ambiguity.
+For clear questions, simply repeat the query as is.
+
+Example:
+Input Question: When did the Frozen ride open at Epcot?
+Disambiguation: When did the Frozen ride open at Epcot?
+
+Input Question: What is the legal age of marriage in the USA?
+Disambiguation: What is the legal age of marriage in each state of the USA, excluding exceptions for parental consent?
+
+Input Question: {query}
+Disambiguation:
+
