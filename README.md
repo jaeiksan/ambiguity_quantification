@@ -1,6 +1,5 @@
 # Ambiguity Quantification 실험
 
-이 폴더는 전체 쿼리 대상 ambiguity scoring 실험을 재현하는 데 필요한 코드, 입력 데이터, 결과 파일만 따로 정리한 전달용 폴더입니다.
 
 ## 구성
 
